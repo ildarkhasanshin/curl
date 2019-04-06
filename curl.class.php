@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * simple curl-class
+ *
+ * @author     ildar r. khasanshin <ildar.khasanshin@gmail.com>
+ * @copyright  2019
+ * @license    Apache license 2.0
+ * @version    1.0
+ * @link       https://github.com/ildarkhasanshin/curl
+ */
 class curl
 {
     private $returntransfer;
