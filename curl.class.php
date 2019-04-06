@@ -15,7 +15,7 @@ class curl
     private $customrequest;
 
     /**
-     * uifaces constructor
+     * curl constructor
      * @param bool $returntransfer
      * @param string $customrequest
      */
